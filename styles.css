@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:rgb(47, 47, 47);
+    background-color:wrgb(47, 47, 47);
     font-family: 'Courier New', Courier, monospace, sans-serif;
     font-weight: 100;
     overflow: hidden;
@@ -67,7 +67,7 @@ button {
     font-size: 16px;
 }
 
-.screenText {
+#screenText {
     color: rgb(97, 93, 93);
     font-size: 400%;
     padding-right: 1rem;
